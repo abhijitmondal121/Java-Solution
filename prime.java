@@ -19,4 +19,5 @@ public class prime {
         else
         System.out.println("The number is not prime : ");
     }
+    
 }
